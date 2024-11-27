@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basel Hussein</h1>
-<h3 align="center">A Full stack software developer Student from Sweden</h3>
+<h3 align="center">A Full stack software developer from Sweden</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baselhn-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="baselhn-cmd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baselhn-cmd" alt="baselhn-cmd" /></a> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/baselhussein85" target="blank"><img src="https://img.shields.io/twitter/follow/baselhussein85?logo=twitter&style=for-the-badge" alt="baselhussein85" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I’m currently working on [https://github.com/baselhn-cmd/sportblog-pp4)
+- 🔭 I’m currently working on [https://github.com/baselhn-cmd/Evlore-pp5)
 
 - 🌱 I’m currently learning **Django, JavaScript, Html**
 
